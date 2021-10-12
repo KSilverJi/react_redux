@@ -1,0 +1,3 @@
+//액션 타입
+export const FETCH_TRENDING = "FETCH_TRENDING";
+export const DELETE_TRENDING = "DELETE_TRENDING";
